@@ -102,6 +102,7 @@ textarea::placeholder {
 
 .btn.btn-danger:hover {
   background-color: #dc3545;
+  color: white;
 }
 
 button[disabled] {
